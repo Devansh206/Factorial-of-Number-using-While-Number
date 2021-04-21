@@ -1,1 +1,1 @@
-# Factorial-of-Number-using-While-Number
+# Factorial-of-Number-using-While Loop
