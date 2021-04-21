@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+  int n,i,fact=1;
+  printf("enter the value to find factorial number");
+  scanf("%d",n)
+  while(i<=n)
+  { 
+     fact=fact*i;
+     i++;
+     }
+ printf("The value of factorial number=%d\n",fact);
+ return 0;
+ }
